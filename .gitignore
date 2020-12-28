@@ -3,7 +3,7 @@ env
 venv
 spotify_analytics
 *.csv
-
+.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

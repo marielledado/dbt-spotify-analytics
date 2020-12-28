@@ -15,7 +15,7 @@ services:
           - backend
 
     dbt:
-        build: ./dbt .
+        build: ./dbt
         container_name: dbt
         volumes:
           - ./data:/data
